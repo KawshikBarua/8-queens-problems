@@ -1,1 +1,1 @@
-# 8-queens-problems
+# 8-queens-problems using Genetic algorithm
